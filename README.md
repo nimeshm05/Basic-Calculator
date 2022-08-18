@@ -1,2 +1,2 @@
 # Basic-Calculator
-This is a basic calculator which is made using tkinter GUI toolkit. As a beginner I was exited to create this.
+A basic calculator project which I developed during my 12th grade.
